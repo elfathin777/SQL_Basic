@@ -55,5 +55,3 @@ Proyek ini berisi latihan dasar penggunaan SQL menggunakan MariaDB/MySQL. Latiha
 ---
 
 
-
----
